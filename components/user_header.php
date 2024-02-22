@@ -97,7 +97,7 @@ if(isset($message)){
       </div>
 
    <nav class="navbar">
-      <a href="home.php"><i class="fa fa-home"></i><span>home</span></a>
+      <a href="index.php"><i class="fa fa-home"></i><span>home</span></a>
       <a href="about.php"><i class="fa fa-question"></i><span>about us</span></a>
       <a href="courses.php"><i class="fa fa-graduation-cap"></i><span>courses</span></a>
       <a href="teachers.php"><i class="fa fa-chalkboard-user"></i><span>tutors</span></a>
